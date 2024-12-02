@@ -9,7 +9,7 @@ Kelas: TI.24.A.3
 # Tugas Praktikum 6
 
 ### Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
-## CODE PROGRAM DAFTAR NILAI
+# CODE PROGRAM DAFTAR NILAI
 
 ### Step 1: Inisialisasi Data
 Tambahkan variabel data_mahasiswa sebagai list kosong yang digunakan untuk menyimpan data mahasiswa, setiap elemen dalam list adalah dictionary yang berisi informasi mahasiswa berupa Nilai Mahasiswa untuk kasus ini :
